@@ -1,0 +1,15 @@
+{
+  "botName": "Bot Template",
+  "botAvatarUrl": "https://cdn.discordapp.com/avatars/1384691414947860612/347ea26bdeddb3b94e7e485352f8772d.png?size=1024",
+  "discordDeveloperPortal": "https://discord.com/developers/applications/id/information",
+  "clientId": "",
+  "prefix": "!",
+  "generalOwner": "",
+  "owners": [""],
+  "token": "",
+  "publicKey": "",
+  "clientSecret": "",
+  "commandsFolder": "./lib/commands",
+  "eventsFolder": "./lib/events",
+  "guilds": []
+}
